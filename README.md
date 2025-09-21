@@ -81,8 +81,3 @@ You’re free to use, modify, and distribute it.
 ## 👨‍💻 Author
 
 **Khalid Rahman Hanify**
-📚 BCS Student at Kardan University
-
-
-Would you like me to also **add GitHub Pages deployment instructions** inside this README so people can easily play your game online?
-```
